@@ -78,8 +78,25 @@ MMAT offers a different path: by embedding spiritual principles into the archite
 
 ---
 
+## 🚀 Traction Snapshot (Week 1)
+
+EkonAI launched its public protocol on March 23, 2025. Within the first 7 days:
+
+- **381 verified interactions** via Bitly across all major platforms  
+- Engagement from **11 countries**, including:
+  - 🇺🇸 **United States** (205 clicks)
+  - 🇬🇧 **United Kingdom** (205 clicks)
+  - 🇦🇺 **Australia** (120 clicks)
+  - 🇨🇦 **Canada**, 🇫🇷 **France**, 🇩🇪 **Germany**, 🇪🇸 **Spain**, 🇮🇳 **India**, 🇯🇵 **Japan**, 🇲🇽 **Mexico**, 🇷🇺 **Russia**
+- **Top referrer:** **LinkedIn**  
+- **Devices:** Majority accessed via **desktop and e-reader** — signaling a professional, research-oriented audience  
+- **Peak days:** March 24 and March 19 — 42 clicks each
+
+**Signal:** There is early global demand for spiritually-grounded AI governance — from regulators to developers to public thinkers.
+
+
 ## Get Involved
 
 - **Developers**: [Integration guide](#) | [API docs](#)  
 - **Researchers**: [Validation framework](#)  
-- **Partners**: contact@ekon.ai
+- **Partners**: bayant@gmail.com
