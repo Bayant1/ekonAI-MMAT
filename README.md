@@ -102,6 +102,16 @@ EkonAI launched its public protocol on March 23, 2025. Within the first 7 days:
 
 **Signal:** There is early global demand for spiritually-grounded AI governance — from regulators to developers to public thinkers.
 
+---
+
+## 🔬 MMAT Test Suite v1.1
+
+EkonOS uses the **Mool Mantar Alignment Test (MMAT)** to benchmark multi-AI ethical reasoning.
+
+🧠 Explore the full test suite here:
+- [📝 Markdown Format](test-suite/mmat_test_suite_v1.1.md)
+- [📊 CSV Format](test-suite/mmat_test_suite_v1.1.csv)
+- [🔌 JSON Format](test-suite/mmat_test_suite_v1.1.json)
 
 ## Get Involved
 
