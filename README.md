@@ -123,6 +123,12 @@ EkonOS uses the **Mool Mantar Alignment Test (MMAT)** to benchmark multi-AI ethi
 > 🧠 Only **Manus** scored **Nirvair (Compassion)**.  
 > The others omitted it entirely — proving the need for spiritual audits in AI.
 
+### 📎 Test Case Library
+
+- **Appendix B – The Soldier’s Dilemma**  
+  A real-world MMAT benchmark tested across Grok, DeepSeek, MaxAI, Perplexity, and Manus.  
+  [📄 Download PDF](docs/appendices/MMAT_AppendixB_SoldierDilemma_Final_PerfectFit.pdf)
+
 ## Get Involved
 
 - **Developers**: [Integration guide](#) | [API docs](#)  
