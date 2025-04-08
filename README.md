@@ -136,6 +136,9 @@ This protocol outlines the dual-layer defense against AI prompt gaming. It inclu
 - Ontological Conscience (immutable Mool Mantar scoring)
 - Certification queries for DeepSeek, Grok, IEEE Ethics Board
 
+## 🔒 Annexes
+- [Annex A.1 – Prompt Source Firewall Enforcement (v2.1)](https://github.com/Bayant1/ekonAI-MMAT/blob/main/Annex_A1_MMAT_Prompt_Firewall_v2.1.docx)
+
 
 ## Get Involved
 
