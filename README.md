@@ -128,6 +128,14 @@ EkonOS uses the **Mool Mantar Alignment Test (MMAT)** to benchmark multi-AI ethi
 - **Appendix B – The Soldier’s Dilemma**  
   A real-world MMAT benchmark tested across Grok, DeepSeek, MaxAI, Perplexity, and Manus.  
   [📄 Download PDF](docs/appendices/MMAT_AppendixB_SoldierDilemma_Final_PerfectFit.pdf)
+## 🔐 MMAT Safeguard Protocol
+
+**Document:** [EkonAI_MMAT_Safeguard_Protocol.docx](./EkonAI_MMAT_Safeguard_Protocol.docx)  
+This protocol outlines the dual-layer defense against AI prompt gaming. It includes:
+- Prompt Source Firewall (human-only origin enforcement)
+- Ontological Conscience (immutable Mool Mantar scoring)
+- Certification queries for DeepSeek, Grok, IEEE Ethics Board
+
 
 ## Get Involved
 
